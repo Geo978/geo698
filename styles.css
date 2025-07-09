@@ -4,13 +4,13 @@
 }
 
 #base {
-   backround: blue;
-   height; 100vh; 
-   width: 100vw;
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   position" relative
+  background: white;
+  height: 100vh; 
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  position:relative;
 }
 
 #background {
@@ -23,8 +23,6 @@
   justify-content: center;
   flex-direction: column;
 }
-
-<div style="background:red;border-radius:10%;text-align:center">Text</div>
 
 #spookster {
   position: relative;
@@ -63,5 +61,3 @@
   left: 5vmin;
   box-shadow: 14vmin 0;
 }
-
-#peepers:before 
